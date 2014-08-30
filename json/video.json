@@ -1,0 +1,21 @@
+[{
+    "album": "Bringing Stillness Into Everyday Life",
+    "index": 0,
+    "parts": ["Bringing Stillness Into Everyday Life Part 1", "Bringing Stillness Into Everyday Life Part 2"],
+    "src": "media/materials/video/Bringing Stillness Into Everyday Life/"
+}, {
+    "album": "Finding Your Life's Purpose",
+    "index": 1,
+    "parts": ["Finding Your Life Purpose"],
+    "src": "media/materials/video/Finding Your Life Purpose/"
+}, {
+    "album": "The Flowering of Human Consciousness",
+    "index": 2,
+    "parts": ["The Flowering of Human Consciousness"],
+    "src": "media/materials/video/The Flowering of Human Consciousness/"
+}, {
+    "album": "What is meditation",
+    "index": 3,
+    "parts": ["What is meditation"],
+    "src": "media/materials/video/What is meditation/"
+}]

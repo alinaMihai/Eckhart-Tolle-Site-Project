@@ -1,0 +1,46 @@
+
+[{
+        "album": "Art of Presence",
+        "index": 0,
+        "subfolders": [{
+            "name": "CD1",
+            "index": "0",
+            "src": "media/materials/audio/Art of Presence/CD1/",
+            "tracks": ["Track01", "Track02", "Track03", "Track04", "Track05", "Track06", "Track07", "Track08"]
+        }, {
+            "name": "CD2",
+            "index": "1",
+            "src": "media/materials/audio/Art of Presence/CD2/",
+            "tracks": ["Track01", "Track02", "Track03", "Track04", "Track05", "Track06", "Track07", "Track08"]
+        }]
+    },
+
+    {
+        "album": "Inner Body",
+        "index": 1,
+        "subfolders": [{
+            "name": null,
+            "index": "0",
+            "src": "materials/audio/Inner Body/",
+            "tracks": ["MainlyOnInnerBody"]
+        }]
+    }, {
+        "album": "Living the Liberated Life",
+        "index": 2,
+        "subfolders": [{
+            "name": "CD1",
+            "index": "0",
+            "src": "media/materials/audio/Living the Liberated Life/CD1/",
+            "tracks": ["01-Introduction", "02-What Does stillness mean", "03-The flowering of consciousness", "04-Beyond thinking to presence", "05-Celebrating life", "06-Connecting with essence", "07-Going into the now", "08-Honor this moment fully"]
+        }, {
+            "name": "CD2",
+            "index": "1",
+            "src": "media/materials/audio/Living the Liberated Life/CD2/",
+            "tracks": ["01-Introduction", "02-Trusting in life", "03-Observing the ego", "04-Recognize illusion as illusion", "05-Automatic ego reaction", "06-Suffering is not necessary", "07-An energy field of pain", "08-Feeding the pain-body", "09-The transmutation of pain"]
+        }]
+    }
+
+
+]
+
+
